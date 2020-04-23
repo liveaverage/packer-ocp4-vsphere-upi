@@ -1,7 +1,7 @@
 {
 
 "variables": {
-  "vcenter_server": "vcsa.gxr.me",
+  "vcenter_server": "vcenter.gxr.me",
   "vcenter_username": "administrator@vsphere.local",
   "vcenter_password": "",
   "vcenter_datacenter": "GXR",
